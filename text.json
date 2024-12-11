@@ -1,0 +1,690 @@
+[
+    {
+        "Title": "Enhancing complex upper-limb motor imagery discrimination through an incremental training strategy.",
+        "Authors": "Cristian David Guerrero-Méndez, Cristian Felipe Blanco-Díaz, Hamilton Rivera-Flor, Claudine Badue, Alberto Ferreira de Souza, Denis Delisle Rodríguez, Teodiano Freire Bastos-Filho",
+        "Year": "2025",
+        "Link": "https://doi.org/10.1016/j.bspc.2024.106837",
+        "Type": "Journal Articles",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "A Study on the Effectiveness of GPT-4V in Classifying Driver Behavior Captured on Video Using Just a Few Frames per Video.",
+        "Authors": "Joao Felipe Gobeti Calenzani, Victor Nascimento Neves, Lucas Thom Ramos, Lauro Jose Lyrio Junior, Luiz C. S. Magnago, Claudine Badue, Thiago Oliveira-Santos, Alberto F. De Souza",
+        "Year": "2024",
+        "Link": "https://doi.org/10.1109/IJCNN60899.2024.10650751",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "A Mobile Application for Speed Bump Sign Detection Using Neural Networks.",
+        "Authors": "Matheus Meier Schreiber, Alberto F. De Souza, Claudine Badue, Thiago Oliveira-Santos",
+        "Year": "2024",
+        "Link": "https://doi.org/10.1109/IJCNN60899.2024.10650767",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Analysis of Bias in GPT Language Models through Fine-tuning Containing Divergent Data.",
+        "Authors": "Leandro Furlam Turi, Athus Cavalini, Giovanni Comarela, Thiago Oliveira-Santos, Claudine Badue, Alberto F. De Souza",
+        "Year": "2024",
+        "Link": "https://doi.org/10.1109/IJCNN60899.2024.10650574",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "PharmaBulaBot: A Chatbot to Answer Drug Questions Based on Information from Pharmaceutical Package Inserts.",
+        "Authors": "Cristiano da Silveira Colombo, Claudine Badue, Elias de Oliveira",
+        "Year": "2023",
+        "Link": "https://doi.org/10.1145/3592813.3592890",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "An Intelligent Report Generator for Chemical Documents.",
+        "Authors": "Flávio Izo, Luis Enrique Santos Prado Vereau, Juliana Pinheiro Campos Pirovani, Elias Oliveira, Claudine Badue",
+        "Year": "2023",
+        "Link": "https://doi.org/10.1145/3592813.3592915",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Cross-domain object detection using unsupervised image translation.",
+        "Authors": "Vinicius F. Arruda, Rodrigo Ferreira Berriel, Thiago M. Paixão, Claudine Badue, Alberto F. De Souza, Nicu Sebe, Thiago Oliveira-Santos",
+        "Year": "2022",
+        "Link": "https://doi.org/10.1016/j.eswa.2021.116334",
+        "Type": "Journal Articles",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Deep traffic sign detection and recognition without target domain real images.",
+        "Authors": "Lucas Tabelini Torres, Rodrigo Ferreira Berriel, Thiago M. Paixão, Alberto F. De Souza, Claudine Badue, Nicu Sebe, Thiago Oliveira-Santos",
+        "Year": "2022",
+        "Link": "https://doi.org/10.1007/s00138-022-01302-0",
+        "Type": "Journal Articles",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "A human-in-the-loop recommendation-based framework for reconstruction of mechanically shredded documents.",
+        "Authors": "Thiago M. Paixão, Rodrigo Ferreira Berriel, Maria C. S. Boeres, Alessandro L. Koerich, Claudine Badue, Alberto F. De Souza, Thiago Oliveira-Santos",
+        "Year": "2022",
+        "Link": "https://doi.org/10.1016/j.patrec.2022.10.011",
+        "Type": "Journal Articles",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Lane Marking Detection and Classification using Spatial-Temporal Feature Pooling.",
+        "Authors": "Lucas Tabelini Torres, Rodrigo Ferreira Berriel, Alberto F. De Souza, Claudine Badue, Thiago Oliveira-Santos",
+        "Year": "2022",
+        "Link": "https://doi.org/10.1109/IJCNN55064.2022.9892478",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Extracting Knowledge from Pharmaceutical Package Inserts.",
+        "Authors": "Cristiano da Silveira Colombo, Claudine Badue, Elias Oliveira",
+        "Year": "2022",
+        "Link": "https://doi.org/10.1007/978-3-031-35501-1_43",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Temperature Prediction in Blast Furnaces: A Machine Learning Comparative Study.",
+        "Authors": "Letícia C. Navarro, Lucas L. Amorim, Rodrigo Ferreira Berriel, Thiago M. Paixão, Vinicius Rampinelli, Luiz A. Wasem, Lucas Quaresma, Claudine Badue, Alberto F. De Souza, Thiago Oliveira-Santos",
+        "Year": "2022",
+        "Link": "https://doi.org/10.1109/SIBGRAPI55357.2022.9991787",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "A Method to Estimate COVID-19 Contamination Risk Based on Social Distancing and Face Mask Detection Using Convolutional Neural Networks.",
+        "Authors": "Cézar Augusto Gobbo Passamani, Victor Nascimento Neves, Lauro Jose Lyrio Junior, Thiago Oliveira-Santos, Claudine Badue, Alberto F. De Souza",
+        "Year": "2022",
+        "Link": "https://doi.org/10.1109/SIBGRAPI55357.2022.9991790",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Deep traffic light detection by overlaying synthetic context on arbitrary natural images.",
+        "Authors": "Jean Pablo Vieira de Mello, Lucas Tabelini Torres, Rodrigo Ferreira Berriel, Thiago M. Paixão, Alberto F. De Souza, Claudine Badue, Nicu Sebe, Thiago Oliveira-Santos",
+        "Year": "2021",
+        "Link": "https://doi.org/10.1016/j.cag.2020.09.012",
+        "Type": "Journal Articles",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Self-driving cars: A survey.",
+        "Authors": "Claudine Badue, Rânik Guidolini, Raphael Vivacqua Carneiro, Pedro Azevedo, Vinicius B. Cardoso, Avelino Forechi, Luan F. R. Jesus, Rodrigo Ferreira Berriel, Thiago M. Paixão, Filipe Wall Mutz, Lucas de Paula Veronese, Thiago Oliveira-Santos, Alberto F. De Souza",
+        "Year": "2021",
+        "Link": "https://doi.org/10.1016/j.eswa.2020.113816",
+        "Type": "Journal Articles",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "What is the best grid-map for self-driving cars localization? An evaluation under diverse types of illumination, traffic, and environment.",
+        "Authors": "Filipe Wall Mutz, Thiago Oliveira-Santos, Avelino Forechi, Karin Satie Komati, Claudine Badue, Felipe M. G. França, Alberto F. De Souza",
+        "Year": "2021",
+        "Link": "https://doi.org/10.1016/j.eswa.2021.115077",
+        "Type": "Journal Articles",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Copycat CNN: Are random non-Labeled data enough to steal knowledge from black-box models?",
+        "Authors": "Jacson Rodrigues Correia da Silva, Rodrigo Ferreira Berriel, Claudine Badue, Alberto F. De Souza, Thiago Oliveira-Santos",
+        "Year": "2021",
+        "Link": "https://doi.org/10.1016/j.patcog.2021.107830",
+        "Type": "Journal Articles",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Evaluating the Limits of a LiDAR for an Autonomous Driving Localization.",
+        "Authors": "Lucas de Paula Veronese, Fernando Alfredo Auat Cheeín, Filipe Wall Mutz, Thiago Oliveira-Santos, José E. Guivant, Edilson de Aguiar, Claudine Badue, Alberto Ferreira de Souza",
+        "Year": "2021",
+        "Link": "https://doi.org/10.1109/TITS.2020.2971054",
+        "Type": "Journal Articles",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Long-Term Map Maintenance in Complex Environments.",
+        "Authors": "Josias Oliveira, Filipe Wall Mutz, Avelino Forechi, Pedro Azevedo, Thiago Oliveira-Santos, Alberto F. De Souza, Claudine Badue",
+        "Year": "2021",
+        "Link": "https://doi.org/10.1007/978-3-030-91699-2_11",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Keep Your Eyes on the Lane: Real-Time Attention-Guided Lane Detection.",
+        "Authors": "Lucas Tabelini Torres, Rodrigo Ferreira Berriel, Thiago M. Paixão, Claudine Badue, Alberto F. De Souza, Thiago Oliveira-Santos",
+        "Year": "2021",
+        "Link": "https://openaccess.thecvf.com/content/CVPR2021/html/Tabelini_Keep_Your_Eyes_on_the_Lane_Real-Time_Attention-Guided_Lane_Detection_CVPR_2021_paper.html",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Sisfrutos Papaya: A Dataset for Detection and Classification of Diseases in Papaya.",
+        "Authors": "Jairo Lucas de Moraes, Jorcy de Oliveira Neto, Jacson Rodrigues Correia da Silva, Thiago M. Paixão, Claudine Badue, Thiago Oliveira-Santos, Alberto F. De Souza",
+        "Year": "2021",
+        "Link": "https://doi.org/10.1007/978-3-030-86340-1_3",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Path Planning in Unstructured Urban Environments for Self-driving Cars.",
+        "Authors": "Anderson Mozart, Gabriel Moraes, Rânik Guidolini, Vinicius B. Cardoso, Thiago Oliveira-Santos, Alberto F. De Souza, Claudine Badue",
+        "Year": "2021",
+        "Link": "https://doi.org/10.5220/0010559602900300",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Visual Global Localization Based on Deep Neural Netwoks for Self-Driving Cars.",
+        "Authors": "Thiago Gonçalves Cavalcante, Thiago Oliveira-Santos, Alberto F. De Souza, Claudine Badue, Avelino Forechi",
+        "Year": "2021",
+        "Link": "https://doi.org/10.1109/IJCNN52387.2021.9533843",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Detecting Cancerous Tissue in Mammograms Using Deep Neural Networks.",
+        "Authors": "Sabrina S. Panceri, Filipe Wall Mutz, Vinicius B. Cardoso, Raphael V. Carneiro, Thiago Oliveira-Santos, Claudine Badue, Alberto F. De Souza",
+        "Year": "2021",
+        "Link": "https://doi.org/10.1109/IJCNN52387.2021.9533376",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Named Entities as a Metadata Resource for Indexing and Searching Information.",
+        "Authors": "Flávio Izo, Elias Oliveira, Claudine Badue",
+        "Year": "2021",
+        "Link": "https://doi.org/10.1007/978-3-030-96308-8_78",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Copycat CNN: Are Random Non-Labeled Data Enough to Steal Knowledge from Black-box Models?",
+        "Authors": "Jacson Rodrigues Correia da Silva, Rodrigo Ferreira Berriel, Claudine Badue, Alberto F. De Souza, Thiago Oliveira-Santos",
+        "Year": "2021",
+        "Link": "https://arxiv.org/abs/2101.08717",
+        "Type": "Informal and Other Publications",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Deep Learning-based Type Identification of Volumetric MRI Sequences.",
+        "Authors": "Jean Pablo Vieira de Mello, Thiago M. Paixão, Rodrigo Ferreira Berriel, Mauricio Reyes, Claudine Badue, Alberto F. De Souza, Thiago Oliveira-Santos",
+        "Year": "2021",
+        "Link": "https://arxiv.org/abs/2106.03208",
+        "Type": "Informal and Other Publications",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Self-supervised deep reconstruction of mixed strip-shredded text documents.",
+        "Authors": "Thiago M. Paixão, Rodrigo Ferreira Berriel, Maria C. S. Boeres, Alessandro L. Koerich, Claudine Badue, Alberto F. De Souza, Thiago Oliveira-Santos",
+        "Year": "2020",
+        "Link": "https://doi.org/10.1016/j.patcog.2020.107535",
+        "Type": "Journal Articles",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Fast(er) Reconstruction of Shredded Text Documents via Self-Supervised Deep Asymmetric Metric Learning.",
+        "Authors": "Thiago M. Paixão, Rodrigo Ferreira Berriel, Maria C. S. Boeres, Alessandro L. Koerich, Claudine Badue, Alberto F. De Souza, Thiago Oliveira-Santos",
+        "Year": "2020",
+        "Link": "https://openaccess.thecvf.com/content_CVPR_2020/html/Paixao_Faster_Reconstruction_of_Shredded_Text_Documents_via_Self-Supervised_Deep_Asymmetric_CVPR_2020_paper.html",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "PolyLaneNet: Lane Estimation via Deep Polynomial Regression.",
+        "Authors": "Lucas Tabelini Torres, Rodrigo Ferreira Berriel, Thiago M. Paixão, Claudine Badue, Alberto F. De Souza, Thiago Oliveira-Santos",
+        "Year": "2020",
+        "Link": "https://doi.org/10.1109/ICPR48806.2021.9412265",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "A Large-Scale Mapping Method Based on Deep Neural Networks Applied to Self-Driving Car Localization.",
+        "Authors": "Vinicius B. Cardoso, André Seidel Oliveira, Avelino Forechi, Pedro Azevedo, Filipe Wall Mutz, Thiago Oliveira-Santos, Claudine Badue, Alberto F. De Souza",
+        "Year": "2020",
+        "Link": "https://doi.org/10.1109/IJCNN48605.2020.9207449",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Image-Based Real-Time Path Generation Using Deep Neural Networks.",
+        "Authors": "Gabriel Moraes, Anderson Mozart, Pedro Azevedo, Marcos Piumbini, Vinicius B. Cardoso, Thiago Oliveira-Santos, Alberto F. De Souza, Claudine Badue",
+        "Year": "2020",
+        "Link": "https://doi.org/10.1109/IJCNN48605.2020.9207499",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Product Categorization by Title Using Deep Neural Networks as Feature Extractor.",
+        "Authors": "Leonardo S. Paulucio, Thiago M. Paixão, Rodrigo Ferreira Berriel, Alberto F. De Souza, Claudine Badue, Thiago Oliveira-Santos",
+        "Year": "2020",
+        "Link": "https://doi.org/10.1109/IJCNN48605.2020.9207093",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Finding Entities and Related Facts in Newspaper.",
+        "Authors": "Jaimel de Oliveira Lima, Cristiano da Silveira Colombo, Flávio Izo, Elias Oliveira, Claudine Badue",
+        "Year": "2020",
+        "Link": "https://doi.org/10.1007/978-3-030-71187-0_116",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Self-supervised Deep Reconstruction of Mixed Strip-shredded Text Documents.",
+        "Authors": "Thiago M. Paixão, Rodrigo Ferreira Berriel, Maria C. S. Boeres, Alessandro L. Koerich, Claudine Badue, Alberto Ferreira de Souza, Thiago Oliveira-Santos",
+        "Year": "2020",
+        "Link": "https://arxiv.org/abs/2007.00779",
+        "Type": "Informal and Other Publications",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Deep Traffic Sign Detection and Recognition Without Target Domain Real Images.",
+        "Authors": "Lucas Tabelini Torres, Rodrigo Ferreira Berriel, Thiago M. Paixão, Alberto F. De Souza, Claudine Badue, Nicu Sebe, Thiago Oliveira-Santos",
+        "Year": "2020",
+        "Link": "https://arxiv.org/abs/2008.00962",
+        "Type": "Informal and Other Publications",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "What is the Best Grid-Map for Self-Driving Cars Localization? An Evaluation under Diverse Types of Illumination, Traffic, and Environment.",
+        "Authors": "Filipe Wall Mutz, Thiago Oliveira-Santos, Avelino Forechi, Karin Satie Komati, Claudine Badue, Felipe M. G. França, Alberto F. De Souza",
+        "Year": "2020",
+        "Link": "https://arxiv.org/abs/2009.09308",
+        "Type": "Informal and Other Publications",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Keep your Eyes on the Lane: Attention-guided Lane Detection.",
+        "Authors": "Lucas Tabelini Torres, Rodrigo Ferreira Berriel, Thiago M. Paixão, Claudine Badue, Alberto F. De Souza, Thiago Oliveira-Santos",
+        "Year": "2020",
+        "Link": "https://arxiv.org/abs/2010.12035",
+        "Type": "Informal and Other Publications",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Handling pedestrians in self-driving cars using image tracking and alternative path generation with Frenét frames.",
+        "Authors": "Renan Sarcinelli, Rânik Guidolini, Vinicius B. Cardoso, Thiago M. Paixão, Rodrigo Ferreira Berriel, Pedro Azevedo, Alberto F. De Souza, Claudine Badue, Thiago Oliveira-Santos",
+        "Year": "2019",
+        "Link": "https://doi.org/10.1016/j.cag.2019.08.004",
+        "Type": "Journal Articles",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "A single sensor system for mapping in GNSS-denied environments.",
+        "Authors": "Lucas de Paula Veronese, Claudine Badue, Fernando Alfredo Auat Cheeín, José E. Guivant, Alberto Ferreira de Souza",
+        "Year": "2019",
+        "Link": "https://doi.org/10.1016/j.cogsys.2019.03.018",
+        "Type": "Journal Articles",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Cross-Domain Car Detection Using Unsupervised Image-to-Image Translation: From Day to Night.",
+        "Authors": "Vinicius F. Arruda, Thiago M. Paixão, Rodrigo Ferreira Berriel, Alberto F. De Souza, Claudine Badue, Nicu Sebe, Thiago Oliveira-Santos",
+        "Year": "2019",
+        "Link": "https://doi.org/10.1109/IJCNN.2019.8852008",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Bio-Inspired Foveated Technique for Augmented-Range Vehicle Detection Using Deep Neural Networks.",
+        "Authors": "Pedro Azevedo, Sabrina S. Panceri, Ranik Guidolini, Vinicius B. Cardoso, Claudine Badue, Thiago Oliveira-Santos, Alberto F. De Souza",
+        "Year": "2019",
+        "Link": "https://doi.org/10.1109/IJCNN.2019.8851947",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Removing Movable Objects from Grid Maps of Self-Driving Cars Using Deep Neural Networks.",
+        "Authors": "Ranik Guidolini, Raphael V. Carneiro, Claudine Badue, Thiago Oliveira-Santos, Alberto F. De Souza",
+        "Year": "2019",
+        "Link": "https://doi.org/10.1109/IJCNN.2019.8851779",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Traffic Light Recognition Using Deep Learning and Prior Maps for Autonomous Cars.",
+        "Authors": "Lucas C. Possatti, Ranik Guidolini, Vinicius B. Cardoso, Rodrigo Ferreira Berriel, Thiago M. Paixão, Claudine Badue, Alberto F. De Souza, Thiago Oliveira-Santos",
+        "Year": "2019",
+        "Link": "https://doi.org/10.1109/IJCNN.2019.8851927",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Effortless Deep Training for Traffic Sign Detection Using Templates and Arbitrary Natural Images.",
+        "Authors": "Lucas Tabelini Torres, Thiago M. Paixão, Rodrigo Ferreira Berriel, Alberto F. De Souza, Claudine Badue, Nicu Sebe, Thiago Oliveira-Santos",
+        "Year": "2019",
+        "Link": "https://doi.org/10.1109/IJCNN.2019.8852086",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Simple and Effective Load Volume Estimation in Moving Trucks using LiDARs.",
+        "Authors": "Lucas L. Amorim, Filipe Wall Mutz, Alberto F. De Souza, Claudine Badue, Thiago Oliveira-Santos",
+        "Year": "2019",
+        "Link": "https://doi.org/10.1109/SIBGRAPI.2019.00036",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Self-Driving Cars: A Survey.",
+        "Authors": "Claudine Badue, Ranik Guidolini, Raphael Vivacqua Carneiro, Pedro Azevedo, Vinicius Brito Cardoso, Avelino Forechi, Luan Ferreira Reis Jesus, Rodrigo Ferreira Berriel, Thiago Meireles Paixão, Filipe Wall Mutz, Thiago Oliveira-Santos, Alberto Ferreira de Souza",
+        "Year": "2019",
+        "Link": "http://arxiv.org/abs/1901.04407",
+        "Type": "Informal and Other Publications",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Heading Direction Estimation Using Deep Learning with Automatic Large-scale Data Acquisition.",
+        "Authors": "Rodrigo Ferreira Berriel, Lucas Tabelini Torres, Vinicius B. Cardoso, Ranik Guidolini, Claudine Badue, Alberto F. De Souza, Thiago Oliveira-Santos",
+        "Year": "2018",
+        "Link": "https://doi.org/10.1109/IJCNN.2018.8489154",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Mapping Road Lanes Using Laser Remission and Deep Neural Networks.",
+        "Authors": "Raphael V. Carneiro, Rafael Correia Nascimento, Ranik Guidolini, Vinicius B. Cardoso, Thiago Oliveira-Santos, Claudine Badue, Alberto F. De Souza",
+        "Year": "2018",
+        "Link": "https://doi.org/10.1109/IJCNN.2018.8489363",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Visual Global Localization with a Hybrid WNN-CNN Approach.",
+        "Authors": "Avelino Forechi, Thiago Oliveira-Santos, Claudine Badue, Alberto Ferreira de Souza",
+        "Year": "2018",
+        "Link": "https://doi.org/10.1109/IJCNN.2018.8489335",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Handling Pedestrians in Crosswalks Using Deep Neural Networks in the IARA Autonomous Car.",
+        "Authors": "Ranik Guidolini, Lucas G. Scart, Luan F. R. Jesus, Vinicius B. Cardoso, Claudine Badue, Thiago Oliveira-Santos",
+        "Year": "2018",
+        "Link": "https://doi.org/10.1109/IJCNN.2018.8489397",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Copycat CNN: Stealing Knowledge by Persuading Confession with Random Non-Labeled Data.",
+        "Authors": "Jacson Rodrigues Correia da Silva, Rodrigo Ferreira Berriel, Claudine Badue, Alberto Ferreira de Souza, Thiago Oliveira-Santos",
+        "Year": "2018",
+        "Link": "https://doi.org/10.1109/IJCNN.2018.8489592",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "A Deep Learning-Based Compatibility Score for Reconstruction of Strip-Shredded Text Documents.",
+        "Authors": "Thiago M. Paixão, Rodrigo Ferreira Berriel, Maria C. S. Boeres, Claudine Badue, Alberto F. De Souza, Thiago Oliveira-Santos",
+        "Year": "2018",
+        "Link": "https://doi.org/10.1109/SIBGRAPI.2018.00018",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Map Memorization and Forgetting in the IARA Autonomous Car.",
+        "Authors": "Thomas Teixeira, Filipe Wall Mutz, Vinicius B. Cardoso, Lucas de Paula Veronese, Claudine Badue, Thiago Oliveira-Santos, Alberto F. De Souza",
+        "Year": "2018",
+        "Link": "http://arxiv.org/abs/1810.02355",
+        "Type": "Informal and Other Publications",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "A Model-Predictive Motion Planner for the IARA autonomous car.",
+        "Authors": "Vinicius Cardoso, Josias Oliveira, Thomas Teixeira, Claudine Badue, Filipe Wall Mutz, Thiago Oliveira-Santos, Lucas de Paula Veronese, Alberto F. De Souza",
+        "Year": "2017",
+        "Link": "https://doi.org/10.1109/ICRA.2017.7989028",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Neural-based model predictive control for tackling steering delays of autonomous cars.",
+        "Authors": "Ranik Guidolini, Alberto F. De Souza, Filipe Wall Mutz, Claudine Badue",
+        "Year": "2017",
+        "Link": "https://doi.org/10.1109/IJCNN.2017.7966403",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Following the leader using a tracking system based on pre-trained deep neural networks.",
+        "Authors": "Filipe Wall Mutz, Vinicius Cardoso, Thomas Teixeira, Luan F. R. Jesus, Michael André Golçalves, Ranik Guidolini, Josias Oliveira, Claudine Badue, Alberto Ferreira de Souza",
+        "Year": "2017",
+        "Link": "https://doi.org/10.1109/IJCNN.2017.7966404",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Fat-Fast VG-RAM WNN: A high performance approach.",
+        "Authors": "Avelino Forechi, Alberto F. De Souza, Jorcy de Oliveira Neto, Edilson de Aguiar, Claudine Badue, Artur S. d'Avila Garcez, Thiago Oliveira-Santos",
+        "Year": "2016",
+        "Link": "https://doi.org/10.1016/j.neucom.2015.06.104",
+        "Type": "Journal Articles",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Simulating robotic cars using time-delay neural networks.",
+        "Authors": "Alberto F. De Souza, Jacson Rodrigues Correia da Silva, Filipe Wall Mutz, Claudine Badue, Thiago Oliveira-Santos",
+        "Year": "2016",
+        "Link": "https://doi.org/10.1109/IJCNN.2016.7727342",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Sequential appearance-based Global Localization using an ensemble of kNN-DTW classifiers.",
+        "Authors": "Avelino Forechi, Alberto Ferreira de Souza, Claudine Badue, Thiago Oliveira-Santos",
+        "Year": "2016",
+        "Link": "https://doi.org/10.1109/IJCNN.2016.7727550",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "A light-weight yet accurate localization system for autonomous cars in large-scale and complex environments.",
+        "Authors": "Lucas de Paula Veronese, José E. Guivant, Fernando Alfredo Auat Cheeín, Thiago Oliveira-Santos, Filipe Wall Mutz, Edilson de Aguiar, Claudine Badue, Alberto F. De Souza",
+        "Year": "2016",
+        "Link": "https://doi.org/10.1109/ITSC.2016.7795604",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "A simple yet effective obstacle avoider for the IARA autonomous car.",
+        "Authors": "Ranik Guidolini, Claudine Badue, Mariella Berger, Lucas de Paula Veronese, Alberto F. De Souza",
+        "Year": "2016",
+        "Link": "https://doi.org/10.1109/ITSC.2016.7795866",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "A Model-Predictive Motion Planner for the IARA Autonomous Car.",
+        "Authors": "Vinicius Cardoso, Josias Oliveira, Thomas Teixeira, Claudine Badue, Filipe Wall Mutz, Thiago Oliveira-Santos, Lucas de Paula Veronese, Alberto F. De Souza",
+        "Year": "2016",
+        "Link": "http://arxiv.org/abs/1611.04552",
+        "Type": "Informal and Other Publications",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Image-based mapping, global localization and position tracking using VG-RAM weightless neural networks.",
+        "Authors": "Lauro Jose Lyrio Junior, Thiago Oliveira-Santos, Claudine Badue, Alberto Ferreira de Souza",
+        "Year": "2015",
+        "Link": "https://doi.org/10.1109/ICRA.2015.7139699",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "A Motion Planner for Car-Like Robots Based on Rapidly-Exploring Random Trees.",
+        "Authors": "Rômulo Ramos Radaelli, Claudine Badue, Michael André Gonçalves, Thiago Oliveira-Santos, Alberto F. De Souza",
+        "Year": "2014",
+        "Link": "https://doi.org/10.1007/978-3-319-12027-0_38",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Compressing VG-RAM WNN memory for lightweight applications.",
+        "Authors": "Edilson de Aguiar, Avelino Forechi, Lucas de Paula Veronese, Mariella Berger, Alberto F. De Souza, Claudine Badue, Thiago Oliveira-Santos",
+        "Year": "2014",
+        "Link": "https://doi.org/10.1109/IJCNN.2014.6889563",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Image-based global localization using VG-RAM Weightless Neural Networks.",
+        "Authors": "Lauro Jose Lyrio Junior, Thiago Oliveira-Santos, Avelino Forechi, Lucas de Paula Veronese, Claudine Badue, Alberto F. De Souza",
+        "Year": "2014",
+        "Link": "https://doi.org/10.1109/IJCNN.2014.6889888",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Programming a VG-RAM based Neural Network Computer.",
+        "Authors": "Alberto F. De Souza, Avelino Forechi, Filipe Wall Mutz, Mariella Berger, Thiago Oliveira-Santos, Claudine Badue",
+        "Year": "2014",
+        "Link": "https://doi.org/10.1109/IJCNN.2014.6889885",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Real-time road surface mapping using stereo matching, v-disparity and machine learning.",
+        "Authors": "Vitor B. Azevedo, Alberto F. De Souza, Lucas de Paula Veronese, Claudine Badue, Mariella Berger",
+        "Year": "2013",
+        "Link": "https://doi.org/10.1109/IJCNN.2013.6707066",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Traffic sign detection with VG-RAM weightless neural networks.",
+        "Authors": "Alberto F. De Souza, Cayo Fontana, Filipe Wall Mutz, Tiago Alves de Oliveira, Mariella Berger, Avelino Forechi, Jorcy de Oliveira Neto, Edilson de Aguiar, Claudine Badue",
+        "Year": "2013",
+        "Link": "https://doi.org/10.1109/IJCNN.2013.6706809",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Traffic sign recognition with VG-RAM Weightless Neural Networks.",
+        "Authors": "Mariella Berger, Avelino Forechi, Alberto F. De Souza, Jorcy de Oliveira Neto, Lucas de Paula Veronese, Claudine Badue",
+        "Year": "2012",
+        "Link": "https://doi.org/10.1109/ISDA.2012.6416557",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Evaluation of Two Parallel Finite Element Implementations of the Time-Dependent Advection Diffusion Problem: GPU versus Cluster Considering Time and Energy Consumption.",
+        "Authors": "Alberto F. De Souza, Lucas de Paula Veronese, Leonardo Muniz de Lima, Claudine Badue, Lucia Catabriga",
+        "Year": "2012",
+        "Link": "https://doi.org/10.1007/978-3-642-38718-0_17",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "The Dynamic Block Remapping Cache.",
+        "Authors": "Felipe Pedroni, Alberto Ferreira de Souza, Claudine Badue",
+        "Year": "2010",
+        "Link": "https://doi.org/10.1109/SBAC-PAD.2010.39",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Capacity Planning for Vertical Search Engines.",
+        "Authors": "Claudine Santos Badue, Jussara M. Almeida, Virgílio A. F. Almeida, Ricardo Baeza-Yates, Berthier A. Ribeiro-Neto, Artur Ziviani, Nivio Ziviani",
+        "Year": "2010",
+        "Link": "http://arxiv.org/abs/1006.5059",
+        "Type": "Informal and Other Publications",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Automated multi-label text categorization with VG-RAM weightless neural networks.",
+        "Authors": "Alberto Ferreira de Souza, Felipe Pedroni, Elias Oliveira, Patrick Marques Ciarelli, Wallace Favoreto Henrique, Lucas de Paula Veronese, Claudine Badue",
+        "Year": "2009",
+        "Link": "https://doi.org/10.1016/j.neucom.2008.06.028",
+        "Type": "Journal Articles",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Face Recognition with VG-RAM Weightless Neural Networks.",
+        "Authors": "Alberto Ferreira de Souza, Claudine Badue, Felipe Pedroni, Elias Oliveira, Stiven Schwanz Dias, Hallysson Oliveira, Sotério Ferreira de Souza",
+        "Year": "2008",
+        "Link": "https://doi.org/10.1007/978-3-540-87536-9_97",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Improving VG-RAM WNN Multi-label Text Categorization via Label Correlation.",
+        "Authors": "Alberto Ferreira de Souza, Claudine Badue, Bruno Zanetti Melotti, Felipe Pedroni, Fernando Libio L. Almeida",
+        "Year": "2008",
+        "Link": "https://doi.org/10.1109/ISDA.2008.298",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "A Comparison between a KNN Based Approach and a PNN Algorithm for a Multi-label Classification Problem.",
+        "Authors": "Elias Oliveira, Patrick Marques Ciarelli, Claudine Badue, Alberto Ferreira de Souza",
+        "Year": "2008",
+        "Link": "https://doi.org/10.1109/ISDA.2008.364",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Multi-label Text Categorization Using VG-RAM Weightless Neural Networks.",
+        "Authors": "Claudine Badue, Felipe Pedroni, Alberto Ferreira de Souza",
+        "Year": "2008",
+        "Link": "https://doi.org/10.1109/SBRN.2008.29",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Using a Probabilistic Neural Network for a Large Multi-label Problem.",
+        "Authors": "Elias Oliveira, Patrick Marques Ciarelli, Alberto Ferreira de Souza, Claudine Badue",
+        "Year": "2008",
+        "Link": "https://doi.org/10.1109/SBRN.2008.38",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Projeto e análise de sistemas de busca na web.",
+        "Authors": "Claudine Santos Badue",
+        "Year": "2007",
+        "Link": "https://hdl.handle.net/1843/RVMR-74SGR7",
+        "Type": "Books and Theses",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Analyzing imbalance among homogeneous index servers in a web search system.",
+        "Authors": "Claudine Santos Badue, Ricardo A. Baeza-Yates, Berthier A. Ribeiro-Neto, Artur Ziviani, Nivio Ziviani",
+        "Year": "2007",
+        "Link": "https://doi.org/10.1016/j.ipm.2006.09.002",
+        "Type": "Journal Articles",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Modeling performance-driven workload characterization of web search systems.",
+        "Authors": "Claudine Santos Badue, Ricardo A. Baeza-Yates, Berthier A. Ribeiro-Neto, Artur Ziviani, Nivio Ziviani",
+        "Year": "2006",
+        "Link": "https://doi.org/10.1145/1183614.1183758",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Basic issues on the processing of web queries.",
+        "Authors": "Claudine Santos Badue, Ramurti A. Barbosa, Paulo Braz Golgher, Berthier A. Ribeiro-Neto, Nivio Ziviani",
+        "Year": "2005",
+        "Link": "https://doi.org/10.1145/1076034.1076136",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Distributed Query Processing Using Partitioned Inverted Files.",
+        "Authors": "Claudine Santos Badue, Ricardo A. Baeza-Yates, Berthier A. Ribeiro-Neto, Nivio Ziviani",
+        "Year": "2001",
+        "Link": "https://doi.org/10.1109/SPIRE.2001.989733",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    },
+    {
+        "Title": "Using an Automatic Retrieval System in the Web to Assist Co-operative Learning.",
+        "Authors": "Claudine Santos Badue, Wesley Vaz, Eduardo Albuquerque",
+        "Year": "1998",
+        "Link": "No Link",
+        "Type": "Conference and Workshop Papers",
+        "Description": "No Abstract"
+    }
+]
